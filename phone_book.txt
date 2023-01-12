@@ -1,0 +1,21 @@
+Agnetsov; Alexander; 89245436543; mobile
+
+Barnitskaya; Evelina; 227865; home
+
+Cormanova; Maria; 89124221345; mobile
+
+Dolganova; Eve; 85178900342; mobile
+
+Esymov; Serge; 89165679567; mobile
+
+Fursov; Dmitriy; 89257892789; mobile
+
+Romanov; Roman; 89556781234; mobile
+
+Egorov; Fill; 89176543452; mobile
+
+
+Samoylov; Sergey; 89123456345; mobile
+Esymov; Serge; 89165679567; mobile
+Esymov; Serge; 89165679567; mobile
+Romanov;; Roman;; 89556781234;; mobile
